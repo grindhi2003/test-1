@@ -1,3 +1,5 @@
 a = 8
 i a > 5:
-print ("a is positive")
+  print ("a is positive")
+elif a<5:
+   print("a is negative")
